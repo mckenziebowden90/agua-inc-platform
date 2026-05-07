@@ -5,7 +5,7 @@
 
 ---
 
-## 🌊 About This Repository
+## About This Repository
 
 This repository is the central codebase for Agua Inc.'s Product & Engineering 
 organization. Our teams build and maintain water-related hardware, firmware, 
@@ -18,7 +18,7 @@ tooling to keep work visible, traceable, and moving.
 
 ---
 
-## 😓 The Problem We Were Solving
+## The Problem We Were Solving
 
 Before integrating GitHub with ClickUp, our engineering org lived with a set 
 of painful, manual workflows:
@@ -50,7 +50,7 @@ of painful, manual workflows:
 
 ---
 
-## ✅ How We Fixed It with ClickUp + GitHub
+## How We Fixed It with ClickUp + GitHub
 
 We integrated this repository directly into ClickUp, and layered AI Agents on 
 top of the integration to automate the highest-friction parts of our workflow.
