@@ -150,6 +150,11 @@ Before any release is cleared, the following must be confirmed:
 *This checklist is automatically validated by the ClickUp Release Readiness 
 Agent. Manual overrides require VP Engineering approval.*
 
+## B2B Water Monitoring Dashboard
+Real-time sensor data and regional flow rate tracking for business clients.
+- Sensor data ingestion pipeline
+- Salesforce account data integration
+- Multi-region alert threshold system
 
 ## Customer Portal Redesign
 Tracking active development for the Agua Inc. customer-facing portal.
