@@ -149,3 +149,11 @@ Before any release is cleared, the following must be confirmed:
 
 *This checklist is automatically validated by the ClickUp Release Readiness 
 Agent. Manual overrides require VP Engineering approval.*
+
+
+## Customer Portal Redesign
+Tracking active development for the Agua Inc. customer-facing portal.
+- Mobile responsiveness fixes (account page)
+- API timeout resolution on user profile load
+- WCAG 2.1 accessibility audit
+See Jira epic for full ticket breakdown.
