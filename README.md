@@ -149,3 +149,10 @@ Before any release is cleared, the following must be confirmed:
 
 *This checklist is automatically validated by the ClickUp Release Readiness 
 Agent. Manual overrides require VP Engineering approval.*
+
+## Global Compliance Update
+Regulatory and localization work across Agua Inc.'s 10 operating markets.
+- GDPR data retention (EU)
+- Spanish + Portuguese localization
+- APAC regulatory compliance audit
+See Jira epic for full ticket breakdown.
