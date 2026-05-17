@@ -155,4 +155,10 @@ Real-time sensor data and regional flow rate tracking for business clients.
 - Sensor data ingestion pipeline
 - Salesforce account data integration
 - Multi-region alert threshold system
+
+## Customer Portal Redesign
+Tracking active development for the Agua Inc. customer-facing portal.
+- Mobile responsiveness fixes (account page)
+- API timeout resolution on user profile load
+- WCAG 2.1 accessibility audit
 See Jira epic for full ticket breakdown.
